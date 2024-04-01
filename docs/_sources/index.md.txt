@@ -263,3 +263,11 @@ Maybe you are also interested in:
 - A Concise Handbook of TensorFlow 2: <https://tf.wiki/en/>
 - My personal webpage: <https://snowkylin.github.io>
 :::
+
+<script src="https://utteranc.es/client.js"
+        repo="snowkylin/keras.fit"
+        issue-term="pathname"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>
