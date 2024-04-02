@@ -256,7 +256,7 @@ This might be the reason why you find here :-) Details [here](https://icannwiki.
 
 How many guys are before you? ↓
 
-<a href="https://info.flagcounter.com/c86D"><img src="https://s01.flagcounter.com/count2/c86D/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_3/labels_0/pageviews_0/flags_0/percent_0/" alt="Free counters!" border="0"></a>
+<a href="https://info.flagcounter.com/c86D"><img src="https://s01.flagcounter.com/count2/c86D/bg_FFFFFF/txt_000000/border_CCCCCC/columns_4/maxflags_250/viewers_3/labels_0/pageviews_1/flags_0/percent_0/" alt="Free counters!" border="0"></a>
 
 Maybe you are also interested in:
 
